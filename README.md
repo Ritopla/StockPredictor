@@ -2,7 +2,9 @@
 
 ## Introduzione
 
-StockPredictor è un progetto di previsione dell'andamento degli stock tramite modello LSTM. Questo notebook contiene il codice necessario allo sviluppo del progetto con spiegazioni per ogni cella, la documentazione è disponibile in questo repository, nella cartella "documentation".
+StockPredictor è un progetto di previsione dell'andamento degli stock tramite modello LSTM. Questo notebook contiene il codice necessario allo sviluppo del progetto commentato passo passo.
+
+La documentazione è disponibile in questo repository, nella cartella "documentation".
 
 ## Manipolazione dei Dati
 
@@ -22,6 +24,8 @@ Il progetto include funzioni per prevedere l'andamento degli stock per qualsiasi
 
 ## Installazione
 Il progetto non offre un modello preaddestrato, sarà necessario addestrarlo prima di utilizzarlo.
+Prima di procedere con l'istallazione, assicurati di avere **python ver >= 3.8** scaricato.
+
 Per replicare questo progetto, segui questi passaggi:
 
 1. Clona il repository:
